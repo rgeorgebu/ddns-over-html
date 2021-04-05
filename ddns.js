@@ -1,6 +1,7 @@
 const https = require('https');
 const fs = require('fs');
 const crypto = require('crypto');
+const secret = require('./secret.json').secret;
 
 function get(url) {
 	return new Promise((resolve, reject) => {
@@ -30,7 +31,7 @@ async function main() {
 	console.log('Generating pbkdf2 key...');
 	const pbkdf2 = await crypto.webcrypto.subtle.importKey(
 		'raw',
-		encoder.encode('secret'),
+		encoder.encode(secret),
 		{
 			name: 'PBKDF2',
 		},
