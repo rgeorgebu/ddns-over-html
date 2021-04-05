@@ -1,6 +1,6 @@
 import Input from './components/input';
 import Button from './components/button';
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback } from 'react';
 import styles from './app.module.css';
 import { ciphertext, salt, iv } from './content.json';
 import decrypt from './decrypt';
