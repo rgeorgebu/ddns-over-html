@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ddns-over-html/static/css/main.31e77996.chunk.css",
+    "main.js": "/ddns-over-html/static/js/main.9b57627a.chunk.js",
+    "main.js.map": "/ddns-over-html/static/js/main.9b57627a.chunk.js.map",
+    "runtime-main.js": "/ddns-over-html/static/js/runtime-main.33b5a7f0.js",
+    "runtime-main.js.map": "/ddns-over-html/static/js/runtime-main.33b5a7f0.js.map",
+    "static/js/2.6311b0f8.chunk.js": "/ddns-over-html/static/js/2.6311b0f8.chunk.js",
+    "static/js/2.6311b0f8.chunk.js.map": "/ddns-over-html/static/js/2.6311b0f8.chunk.js.map",
+    "static/js/3.1a377cbe.chunk.js": "/ddns-over-html/static/js/3.1a377cbe.chunk.js",
+    "static/js/3.1a377cbe.chunk.js.map": "/ddns-over-html/static/js/3.1a377cbe.chunk.js.map",
+    "index.html": "/ddns-over-html/index.html",
+    "static/css/main.31e77996.chunk.css.map": "/ddns-over-html/static/css/main.31e77996.chunk.css.map",
+    "static/js/2.6311b0f8.chunk.js.LICENSE.txt": "/ddns-over-html/static/js/2.6311b0f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33b5a7f0.js",
+    "static/js/2.6311b0f8.chunk.js",
+    "static/css/main.31e77996.chunk.css",
+    "static/js/main.9b57627a.chunk.js"
+  ]
+}
