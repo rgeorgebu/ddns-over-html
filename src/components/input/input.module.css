@@ -1,0 +1,15 @@
+.label {
+	display: flex;
+	flex-direction: column;
+}
+
+.label > .input {
+	margin-top: 0.25rem;
+}
+
+.input {
+	height: 2rem;
+	border-radius: 0.25rem;
+	padding: 0 0.5rem;
+	border: unset;
+}
