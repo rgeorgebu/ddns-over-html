@@ -24,3 +24,4 @@ yarn-error.log*
 
 # DO NOT REMOVE THIS LINE - DO NOT COMMIT THE SECRET TO PUBLIC REPOSITORIES
 secret.json
+content.json
